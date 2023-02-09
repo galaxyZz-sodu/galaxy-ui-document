@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmusic"]=self["webpackChunkmusic"]||[]).push([[101],{8101:function(s,t,i){i.r(t),i.d(t,{default:function(){return r}});var l=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,t=s._self._c;return t("div",[t("div",{staticClass:"samllTitle"},[s._v("欢迎使用")]),t("div",{staticClass:"welTitle"},[s._v("GALAXY-UI")])])}],e={},n=e,c=i(1001),a=(0,c.Z)(n,l,u,!1,null,"773fa2bd",null),r=a.exports}}]);
+//# sourceMappingURL=101.eb7383cd.js.map
