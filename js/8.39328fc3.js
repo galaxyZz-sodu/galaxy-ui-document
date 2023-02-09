@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgalaxy_ui"]=self["webpackChunkgalaxy_ui"]||[]).push([[8],{4008:function(u,n,e){e.r(n),e.d(n,{default:function(){return s}});var l=function(){var u=this,n=u._self._c;return n("div")},t=[],a={},r=a,c=e(1001),i=(0,c.Z)(r,l,t,!1,null,"39096d3c",null),s=i.exports}}]);
+//# sourceMappingURL=8.39328fc3.js.map
